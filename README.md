@@ -1,6 +1,6 @@
 ## Linne's ELK Project Readme
 ________________________________________________________________________________________________________________
-![Network_Diagram](https://github.com/naumanjaliawala/resolved-saucer/blob/master/diagrams/Solved.png)
+![Network_Diagram](https://github.com/Linneg/Project1/blob/main/Diagrams/LInne.png)
 
 # Automated ELK Stack Deployment
 
